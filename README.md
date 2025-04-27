@@ -33,8 +33,11 @@ This is a simple website for a juice shop, "Fresh Juice Co.". It showcases a var
 * CSS
 * JavaScript
 
-## Deployed On
+## Deployed 
 https://onkar-kambale.github.io/Fresh-Juice/
+
+## Preview
+[watch video]()
 
 ## How to Use
 
