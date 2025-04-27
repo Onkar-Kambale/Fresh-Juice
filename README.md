@@ -1,10 +1,10 @@
-# Fresh Juice Co. 
+# 🥤Fresh Juice Co. 
 
 ## Overview
 
 This is a simple website for a juice shop, "Fresh Juice Co.". It showcases a variety of fresh juices, provides an interactive product selection interface, and includes basic cart functionality.
 
-## Files Included
+## 📂Files Included
 
 * `index.html`: The main HTML file that structures the website's content.
 * `script.js`:  The JavaScript file that handles the interactive elements, including product selection, cart management, and animations.
@@ -12,7 +12,7 @@ This is a simple website for a juice shop, "Fresh Juice Co.". It showcases a var
 * `Orange.png`, `Apple.png`, `Carrot.png`, `Pineapple.png`, `Grapes.png`, `Beet.png`, `Watermelon.png`: Image files for the juice products.
 * `bgimg-unsplash.jpg`: Background image for the home section.
 
-## Features
+## 🚀Features
 
 * **Product Display:** A list of juice products with images, descriptions, and prices.
 * **Interactive Product Selection:** Users can click on juice options to view details and images for each type of juice.
@@ -27,19 +27,19 @@ This is a simple website for a juice shop, "Fresh Juice Co.". It showcases a var
 * **About Us Section:** Information about the juice shop and the benefits of drinking fresh juices.
 * **Contact Section:** Contact information for the juice shop.
 
-## Technologies Used
+## 🧰Technologies Used
 
 * HTML
 * CSS
 * JavaScript
 
-## Deployed 
+## 🖼️ Deployed 
 https://onkar-kambale.github.io/Fresh-Juice/
 
-## Preview
+## 🎥Preview
 [watch video](FreshJuiceCo-Deployed.mp4)
 
-## How to Use
+## ⭐How to Use
 
 * **Browse Products:** Scroll through the "Products" section to see the available juices.
 * **Select Juice Details:** Click on the price button below each juice to see its specific details and image.
